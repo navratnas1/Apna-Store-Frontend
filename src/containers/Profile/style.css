@@ -1,0 +1,28 @@
+.container{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.jumbotron{
+    position: relative;
+    padding:0 !important;
+    margin-top:70px !important;
+    background: #eee;
+    margin-top: 23px;
+    text-align:center;
+    margin-bottom: 0 !important;
+}
+
+.key{
+    font-weight: bolder;
+    padding-top: 20px;
+}
+
+.value{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.rowNew{
+    padding-bottom: 40px;
+}
